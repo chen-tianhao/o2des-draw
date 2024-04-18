@@ -1,0 +1,5 @@
+19-APR-2023: 21.2.1
+
+- Skips sanitizeHtml for unchanged labels [drawio-3530]
+- Uses cssText property to set CSS in foreignObjects
+- Adds submenu to enable and change diagram language
